@@ -169,7 +169,7 @@
 # if num == reverse:
 #     print("Palindrome")
 # else:
-#     print("Not a Palindrome")
+    # print("Not a Palindrome")
     
 # num = int(123)    
 # a = num
